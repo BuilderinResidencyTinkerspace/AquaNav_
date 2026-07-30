@@ -26,13 +26,6 @@ First-time setup:
 
 Your site will be live at `https://<org-or-user>.github.io/<repo>/`.
 
-## CAD files
-
-CAD binaries use Git LFS so the repo stays light. Once per machine:
-
-    git lfs install
-
-Then commit `.stl`, `.step`, `.f3d`, `.3mf` as usual — `.gitattributes` handles the rest.
 
 ## Weekly logs
 
