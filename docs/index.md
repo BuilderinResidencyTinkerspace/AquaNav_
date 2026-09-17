@@ -16,7 +16,6 @@ AquaNav is a four-wheel mobile rover that uses a Raspberry Pi camera to detect a
 ## Hardware and tools
 
 - Boards / sensors:
-- Boards / sensors:
 Raspberry Pi 5
 Raspberry Pi Camera Module 3
 ESP8266 / NodeMCU
