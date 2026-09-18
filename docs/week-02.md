@@ -24,15 +24,25 @@ However, we accidentally connected the batteries directly without using a buck c
 
 ## Problems and blockers
 
--
+Finding the correct wheels took some searching.
+The motor and mecanum wheel needed a custom shaft to connect them properly.
+Several 3D-printed shaft designs failed because they were slightly different in size.
+We had doubts about the strength of the shoe rack and moved towards the wooden base.
+The ESP32 was damaged/crashed after we connected the battery supply incorrectly without a buck converter.
 
 ## Decisions
 
--
+We decided to use 60 mm mecanum wheels.
+We decided to use 3D-printed shafts to connect the motors and wheels.
+After several attempts, we finalised the shaft with the correct fit.
+We decided to replace the damaged ESP32 and redo the connections properly with the correct power supply.
 
 ## Next week
 
--
+Get a new ESP32.
+Redo the motor-driver and motor connections.
+Use a buck converter to provide the correct voltage to the ESP32.
+Test the motors and wheels safely.
 
 ## Links
 
