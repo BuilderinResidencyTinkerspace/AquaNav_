@@ -1,6 +1,6 @@
 # Week 1
 
-**Goal this week:**To find a suitable and strong base for the aquarium that can support the weight of the complete setup.
+Goal this week:To find a suitable and strong base for the aquarium that can support the weight of the complete setup.
 
 ## What we did
 
@@ -30,12 +30,19 @@ We decided to test plywood and wooden bases because they provide better and stro
 
 ## Next week
 
--
+
 Test the wooden and plywood bases with the aquarium.
 Decide which base is more suitable for the final setup.
 Start planning how to mount the rover and other components onto the base.
-## Links<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/331d6f08-27a4-43dd-9cc8-59d710029e7b" />
 
 
 - Code:
-- Photos / CAD:
+- 
+- Photos / CAD
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/5e44e5e4-dd60-40de-9705-32e5989a0914" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/31e37e0f-0443-4d05-a63d-1f9a809f3d98" />
+<img width="899" height="714" alt="image" src="https://github.com/user-attachments/assets/f3c55afa-1e71-401a-8b5d-d3d0480854a0" />
+
+
+
+- 
