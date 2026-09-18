@@ -1,6 +1,6 @@
 # Week 2
 
-**Goal this week:**To find suitable wheels, connect the wheels to the motors and base, and complete the initial motor-control circuit.
+Goal this week:To find suitable wheels, connect the wheels to the motors and base, and complete the initial motor-control circuit.
 
 ## What we did
 
