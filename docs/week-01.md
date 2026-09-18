@@ -42,6 +42,8 @@ Start planning how to mount the rover and other components onto the base.
 <img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/5e44e5e4-dd60-40de-9705-32e5989a0914" />
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/31e37e0f-0443-4d05-a63d-1f9a809f3d98" />
 <img width="899" height="714" alt="image" src="https://github.com/user-attachments/assets/f3c55afa-1e71-401a-8b5d-d3d0480854a0" />
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/6b393a8a-1020-445f-ab30-d1e772bcf43f" />
+
 
 
 
