@@ -31,9 +31,13 @@ We decided to properly acclimatise the fish to the aquarium water before releasi
 
 ## Next week
 
--
+Mount the aquarium securely on the rover.
+Continue testing the rover with the aquarium and fish.
+Start working on the camera and fish/object tracking.
 
 ## Links
 
 - Code:
-- Photos / CAD:
+- Photos / CAD:<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/40700e41-58c2-4b5d-95c9-cab216a58ae8" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/4f9f3c05-ef74-42f1-a101-1f203a2077ff" />
+
