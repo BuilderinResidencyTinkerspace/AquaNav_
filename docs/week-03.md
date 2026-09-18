@@ -19,11 +19,15 @@ With this, the aquarium and fish part of our setup was ready.
 
 ## Problems and blockers
 
--
+-Finding an aquarium with the right size and weight was difficult.
+The first shop we approached did not have a suitable aquarium.
+We also had to make sure the aquarium's weight would be balanced by our rover base.
 
 ## Decisions
 
--
+-We decided to have the aquarium custom-built according to our required dimensions.
+We chose a fighter fish because it needs comparatively less water.
+We decided to properly acclimatise the fish to the aquarium water before releasing it.
 
 ## Next week
 
