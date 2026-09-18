@@ -1,6 +1,6 @@
 # Week 3
 
-**Goal this week:**To find the right-sized aquarium and get the fish ready for the final setup without making the rover too heavy
+Goal this week:To find the right-sized aquarium and get the fish ready for the final setup without making the rover too heavy
 
 ## What we did
 
