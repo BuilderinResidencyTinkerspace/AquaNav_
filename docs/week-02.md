@@ -47,4 +47,16 @@ Test the motors and wheels safely.
 ## Links
 
 - Code:
-- Photos / CAD:
+- Photos / CAD:<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/adf1c08a-e3a6-4a01-aff5-ffd114313915" />
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/4b4d160c-843f-44df-9843-781d67ec0070" />
+
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/29aa1b4a-c678-4e8d-9fc3-dae1885cdf66" />
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/13fea29d-3efd-4473-be34-5e94ee876d9a" />
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/10018e21-7715-4759-b7ee-8e2eaca5ada9" />
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/6f48c0f0-5311-48b0-a916-2f71a439a9e7" />
+
+
+
+
+
+
