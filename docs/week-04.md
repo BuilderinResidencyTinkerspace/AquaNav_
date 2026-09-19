@@ -45,5 +45,7 @@ Plan how the rover can respond automatically to the detected movement.
 - Code:
 - Photos / CAD:<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/304066d2-7c20-4b67-895c-f085f806633e" />
 <img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/0ea31927-4aef-4837-a94e-9383c33c9409" />
+<img width="917" height="1119" alt="image" src="https://github.com/user-attachments/assets/dc8096ea-28fa-49b7-92b1-4179f0e87f55" />
+
 
 
