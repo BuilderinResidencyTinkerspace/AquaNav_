@@ -96,4 +96,8 @@ val: images/val
 
 names:
   0: fish
-- Photos / CAD:
+- Photos / CAD: fish tracking demo video 
+
+https://github.com/user-attachments/assets/ec2f21c9-5562-4859-bf95-afc372da9829
+
+
