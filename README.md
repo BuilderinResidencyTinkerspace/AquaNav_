@@ -141,3 +141,178 @@ Where is the fish right now?
 That changed the direction of the project.
 Turning Position into Movement
 We first tried a very basic idea:
+Fish moves forward
+        |
+        v
+Rover moves forward
+But this wasn't accurate enough.
+So we divided the camera frame into different regions.
++---------------+---------------+
+|   TOP LEFT    |   TOP RIGHT   |
+|               |               |
++---------------+---------------+
+|  BOTTOM LEFT  | BOTTOM RIGHT  |
+|               |               |
++---------------+---------------+
+A central region was also used as the stop area.
+The basic idea became:
+FISH
+               |
+               v
+        Where is the fish?
+               |
+      +--------+--------+
+      |        |        |
+      v        v        v
+    LEFT     CENTER    RIGHT
+      |        |        |
+      v        v        v
+    MOVE      STOP     MOVE
+We wrote the code and tested it with the rover.
+It worked.
+But then we found another problem.
+The Problem We Didn't Expect
+If the fish remained outside the centre, the rover would keep trying to move.
+We didn't want that.
+So we changed the behaviour again.
+The rover would now:
+Move -> Stop -> Wait -> Check again -> Move if necessary
+Our final strategy was approximately:
+Move for 5–8 seconds
+Stop
+Wait for around 10 seconds
+Check the fish position again
+Continue only if necessary
+The cycle continues until:
+the fish reaches the centre, or
+the fish stops moving.
+After testing this approach, we found that it behaved much better and decided to use it as our final movement strategy.
+What We Actually Learned
+AquaNav taught us that building a robot isn't simply:
+Build -> Code -> Finished
+It was much closer to:
+Idea
+ |
+ v
+Build
+ |
+ v
+Test
+ |
+ v
+Something breaks
+ |
+ v
+Change the design
+ |
+ v
+Test again
+ |
+ v
+New problem appears
+ |
+ v
+Try another approach
+ |
+ v
+Test again
+Across the nine weeks, we worked with:
+Raspberry Pi
+ESP32
+NodeMCU
+Motor drivers
+DC motors
+Batteries and power supplies
+Camera systems
+Edge Impulse
+YOLO experiments
+OpenCV
+3D printing
+Mechanical structures
+Aquarium construction
+Computer vision
+Autonomous movement
+Nine Weeks of AquaNav
+Week
+What happened
+01
+Searching for a suitable base for the aquarium
+02
+Wheels, motors, 3D-printed shafts and first electronics setup
+03
+Aluminium frame, improved wheels, rover movement and aquarium
+04
+Raspberry Pi, camera testing and fish-detection experiments
+05
+Moving control away from the laggy ESP-based website
+06
+Raspberry Pi + NodeMCU control, sensor testing and power problems
+07
+Continued mechanical, aquarium and system testing
+08
+OpenCV fish tracking and first fish-to-wheel integration
+09
+Grid-based movement and the final timed movement strategy
+Project Structure
+AquaNav/
+|
++-- README.md
+|
++-- docs/
+|   +-- week-01.md
+|   +-- week-02.md
+|   +-- week-03.md
+|   +-- week-04.md
+|   +-- week-05.md
+|   +-- week-06.md
+|   +-- week-07.md
+|   +-- week-08.md
+|   +-- week-09.md
+|
++-- code/
+|   +-- motor-control/
+|   +-- camera/
+|   +-- fish-tracking/
+|   +-- integration/
+|
++-- cad/
+|   +-- rover/
+|
++-- images/
+    +-- rover/
+    +-- aquarium/
+    +-- electronics/
+    +-- tracking/
+Where We Want to Take It Next
+The BIR program is over, but AquaNav doesn't necessarily have to end here.
+Our next idea is to give the rover a completely different purpose.
+Guided Mode
+We want to explore turning AquaNav into a guided navigation robot.
+The idea is similar to guide robots that can help people find locations inside large places such as shopping malls.
+A possible future system could use LiDAR to map an entire indoor area.
+A person could then interact with the rover through:
+Screen or Voice
+      |
+      v
+Choose a destination
+      |
+      v
+Rover plans a route
+      |
+      v
+Rover guides the person
+For example:
+"I want to go to the food court."
+The robot would use its map and navigation system to guide the person there.
+This would take AquaNav from a fish-following experiment toward a much broader idea:
+A robot that can understand its environment and help people navigate through it.
+One Fish. One Rover. Nine Weeks.
+AquaNav started with a simple experiment:
+Can a rover respond to a fish?
+Nine weeks later, we had built a working system involving a custom aquarium, four-wheel movement, camera-based tracking, OpenCV and autonomous movement logic.
+There were plenty of things that didn't work on the first try.
+And honestly, that became one of the most important parts of the project.
+Because AquaNav wasn't built by getting everything right the first time.
+It was built by finding out what was wrong, changing it, and trying again.
+AquaNav
+Built to follow a fish. Built to learn robotics.
