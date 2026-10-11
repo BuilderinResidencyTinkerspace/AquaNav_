@@ -1,3 +1,5 @@
+
+
 # Week 6
 
 Goal this week:To move from controlling the rover through the ESP32's own Wi-Fi website to controlling it through the Raspberry Pi, so that the control system would be smoother and less laggy.
@@ -48,3 +50,7 @@ Work towards replacing the laggy ESP-hosted website with the Raspberry Pi-based 
 
 - Code:
 - Photos / CAD:
+<img width="1080" height="1440" alt="WhatsApp Image 2026-10-11 at 6 13 19 PM" src="https://github.com/user-attachments/assets/c0439891-5ca8-4270-abe9-96eb7919f024" />
+
+
+https://github.com/user-attachments/assets/a4c982b5-eb25-45fc-81e4-ac32052ffe72
