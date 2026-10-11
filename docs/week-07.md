@@ -49,3 +49,6 @@ Test the complete system with the aquarium and fish.
 
 - Code:
 - Photos / CAD:
+<img width="1080" height="1440" alt="WhatsApp Image 2026-10-11 at 6 23 10 PM" src="https://github.com/user-attachments/assets/283bbbf0-1779-41b1-9486-91e8435413a2" />
+https://github.com/user-attachments/assets/dc08beaf-70f6-4dd8-a332-46d6dd5b2897
+
