@@ -50,3 +50,8 @@ This would be our next step in taking the project beyond fish tracking and explo
 
 - Code:
 - Photos / CAD:
+<img width="1280" height="960" alt="WhatsApp Image 2026-10-11 at 6 37 58 PM" src="https://github.com/user-attachments/assets/030e5b01-cce2-4cbd-933c-5a1f93cda018" />
+<img width="780" height="1040" alt="WhatsApp Image 2026-10-02 at 12 39 03 PM" src="https://github.com/user-attachments/assets/9dddd87e-414c-4e7a-8396-6bc3de93785f" />
+
+
+https://github.com/user-attachments/assets/6563d761-fa05-4fc8-ad89-8df4f1718b3e
