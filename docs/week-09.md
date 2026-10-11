@@ -19,7 +19,7 @@ We discussed this and came up with another approach.
 The new idea was to make the rover move for around 5–8 seconds when the fish is outside the center, and then stop.
 After stopping, the rover would wait for around 10 seconds before moving again.
 This cycle would continue until the fish either stopped moving or came back to the center.
-We tested this strategy, and it worked well. We decided to go with this approach for the final movement logic.
+We tested this strategy, and it worked well. We decided to go with this approach for the final movement logic. Then we moved all the connection to the perf board and secured it by soldering and the circuit is completed by adding a battery and a switch
 
 ## Problems and blockers
 
